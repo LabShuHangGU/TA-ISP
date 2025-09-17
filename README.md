@@ -18,7 +18,8 @@ Kai Chen,  Jin Xiao,  [Leheng Zhang](https://scholar.google.com/citations?hl=zh-
 
 ## Performance
 <p align="center">
-    <img src="asset/detection_scatter_latency.png" style="border-radius: 5px">
+    <img src="asset/detection_scatter_latency.png" style="border-radius: 5px"
+    width="80%">
 </p>
 
 ## 📑 Contents
