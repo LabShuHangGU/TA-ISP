@@ -7,8 +7,8 @@ Task-Aware Image Signal Processor for Advanced Visual Perception
 
 Kai Chen,  Jin Xiao,  [Leheng Zhang](https://scholar.google.com/citations?hl=zh-CN&user=DH1CJqkAAAAJ),  [Kexuan Shi](https://scholar.google.com/citations?hl=zh-CN&user=dX-aOIwAAAAJ),  [Shuhang Gu](https://scholar.google.com/citations?user=-kSTt40AAAAJ)
 
-<!-- [![arXiv](https://img.shields.io/badge/arXiv-2505.12742-b31b1b.svg)](https://arxiv.org/abs/2505.12742)
-[![GitHub Stars](https://img.shields.io/github/stars/LabShuHangGU/MVAR?style=social)](https://github.com/LabShuHangGU/MVAR) -->
+[![arXiv](https://img.shields.io/badge/arXiv-2509.13762-b31b1b.svg)](https://arxiv.org/abs/2509.13762)
+[![GitHub Stars](https://img.shields.io/github/stars/LabShuHangGU/TA-ISP?style=social)](https://github.com/LabShuHangGU/TA-ISP)
 
 </div>
 
